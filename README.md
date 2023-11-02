@@ -1,7 +1,7 @@
 # Collect.js Demo in React
 
 This project is a demo that shows how to use
-[Collect.js](https://secure.safewebservices.com/gw/merchants/resources/integration/integration_portal.php#cjs_methodology) with React.
+[Collect.js](https://integratepayments.transactiongateway.com/merchants/resources/integration/integration_portal.php?tid=a4c6252a0a986e8974ea55c54d2bddf5#cjs_methodology) with React.
 It has both a Lightbox and Inline example and how to use each one. 
 
 ## Lightbox Collect.js
